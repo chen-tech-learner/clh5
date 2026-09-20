@@ -1,9 +1,9 @@
 ﻿{
     "urls": [
-        { "url":"https://gh-proxy.org/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json","name":"福利1" },
-	    { "url":"https://gh-proxy.org/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json","name":"福利2" },
-        { "url":"https://gh-proxy.org/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa11.json","name":"福利3" },
-        { "url":"https://gh-proxy.org/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json","name":"福利4" },
-        { "url":"https://gh-proxy.org/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json","name":"福利5" }
+        { "url":"https://gh-proxy.org/raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json","name":"福利1" },
+	    { "url":"https://gh-proxy.org/raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json","name":"福利2" },
+        { "url":"https://gh-proxy.org/githubusercontent.com/aliluya1977/TVBox/master/papa11.json","name":"福利3" },
+        { "url":"https://gh-proxy.org/github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json","name":"福利4" },
+        { "url":"https://gh-proxy.org/raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json","name":"福利5" }
     ]
 }
